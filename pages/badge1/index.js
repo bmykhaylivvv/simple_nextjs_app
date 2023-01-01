@@ -28,7 +28,7 @@ export default function Badge1() {
         />
         <meta
           property="og:image"
-          content="https://clon-demo.s3.amazonaws.com/badge1.png"
+          content="https://clon-demo.s3.amazonaws.com/12.png"
           data-react-helmet="true"
         />
       </Head>
